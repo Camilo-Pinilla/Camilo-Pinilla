@@ -1,5 +1,7 @@
 # Bienvenido a mi perfil 👋
 
+<img src="https://i.imgur.com/sKm1HDx.png" title="source: imgur.com" alt="Camilo Pinilla" />
+
 <!--
 **Camilo-Pinilla/Camilo-Pinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
