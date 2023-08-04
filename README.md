@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/wMrMQk8.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-⚡ Hola! soy Camilo Pinilla, un apasionado del desarrollo de software, actualmente estoy formandome 🌱como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.
+⚡ ¡Hola! soy Camilo Pinilla, un apasionado del desarrollo de software, actualmente estoy formandome 🌱como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.
 
 🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.
 
