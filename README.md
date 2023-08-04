@@ -6,7 +6,7 @@
 
 🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.
 
-🚀En mi tiempo libre, me dedico especialmente al desarrollo Front-end, y me apasiona trabajar con tecnologías como React.js, También disfruto desarrollar con el marco de trabajo Tailwind CSS para un desarrollo más ágil y estilizado.
+🚀En mi tiempo libre, me dedico especialmente al desarrollo Front-end, y me apasiona trabajar con tecnologías como React.js, también disfruto desarrollar con el marco de trabajo Tailwind CSS para un desarrollo más ágil y estilizado.
 
 💻 Además, en mis proyectos personales, me entusiasma utilizar Sqlite3 para manejar bases de datos, lo que me permite construir aplicaciones robustas y bien estructuradas.
 
