@@ -1,6 +1,7 @@
 # Bienvenido a mi perfil 👋
 
 <img src="https://i.imgur.com/wMrMQk8.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
+<img src="https://imgur.com/hYs18Wd" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
 ⚡ ¡Hola! soy Camilo Pinilla, un apasionado del desarrollo de software, actualmente estoy formandome 🌱como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.
 
