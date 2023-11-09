@@ -7,7 +7,7 @@
 <td style="width:50%">
 <h2>🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.</h2>
 </td>
-<td style="width:50%">
+<td style="min-width:50%">
 <h2>💻 En mis proyectos personales, me entusiasma utilizar Sqlite3 para manejar bases de datos, lo que me permite construir aplicaciones robustas y bien estructuradas.</h2>
 </td>
 </tr>
