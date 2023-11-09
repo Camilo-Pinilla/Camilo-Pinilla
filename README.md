@@ -1,7 +1,9 @@
 <img src="https://imgur.com/hYs18Wd.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-⚡ ¡Hola! soy Camilo Pinilla, un apasionado del desarrollo de software, actualmente estoy formandome 🌱como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.
-
+<section style="width: 100%; border: 1px solid blue; padding: 10px; display: flex;">
+  <div style="width: 48%;  border: 1px solid red; min-height: 500px;"></div>
+  <div style="width: 48%;  border: 1px solid red; min-height: 500px;"></div>
+</section>
 🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.
 
 🚀En mi tiempo libre, me dedico especialmente al desarrollo Front-end, y me apasiona trabajar con tecnologías como React.js, también disfruto desarrollar con el marco de trabajo Tailwind CSS para un desarrollo más ágil y estilizado.
