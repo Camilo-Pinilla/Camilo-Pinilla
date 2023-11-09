@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td>
-<h2>🌟 Siempre estoy abierto a colaboraciones y aportar mi experiencia en proyectos emocionantes. ¡No dudes en contactarme si quieres charlar sobre desarrollo de software, intercambiar ideas o si estás buscando colaboración en algún proyecto interesante!</h2>
+<h2>🌟¡No dudes en contactarme si quieres charlar sobre desarrollo de software, intercambiar ideas o si estás buscando colaboración en algún proyecto interesante!</h2>
 </td>
   <td>
 <h2>🚀En mi tiempo libre, me apasiona trabajar en proyectos personales practicando con tecnologías como React.js, Sqlite, MongoDB y Express.js.</h2>
