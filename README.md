@@ -1,6 +1,6 @@
 <img src="https://imgur.com/hYs18Wd.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-<section style="width: 100%; border: 1px solid blue; padding: 10px; display: flex; min-height: 600px;">
+<section style="width: 1000px; border: 1px solid blue; padding: 10px; display: flex; min-height: 600px;">
   <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Bienvenido</div>
   <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Hola</div>
 </section>
