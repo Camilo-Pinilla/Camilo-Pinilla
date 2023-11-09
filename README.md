@@ -5,7 +5,8 @@
 <table style="width:100%">
 <tr>
 <td>
-<h2>🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.</h2>
+<h2>🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.</h2><br>
+  <h2 style="font-size: 3rem;">🎓</h2>
 </td>
 <td>
 <h2>🚀En mi tiempo libre, me dedico especialmente al desarrollo Front-end, y me apasiona trabajar con tecnologías como React.js, también disfruto desarrollar con el marco de trabajo Tailwind CSS para un desarrollo más ágil y estilizado.</h2>
