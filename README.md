@@ -1,8 +1,8 @@
 <img src="https://imgur.com/hYs18Wd.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-<section style="width: 100%; border: 1px solid blue; padding: 10px; display: flex;">
-  <div style="width: 48%;  border: 1px solid red; min-height: 500px;"></div>
-  <div style="width: 48%;  border: 1px solid red; min-height: 500px;"></div>
+<section style="width: 100%; border: 1px solid blue; padding: 10px; display: flex; min-height: 600px;">
+  <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Bienvenido</div>
+  <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Hola</div>
 </section>
 🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.
 
