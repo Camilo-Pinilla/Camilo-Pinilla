@@ -8,15 +8,15 @@
 <h2>🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.</h2>
 </td>
 <td>
-<h2>🚀En mi tiempo libre, me apasiona trabajar en proyectos personales practicando con tecnologías como React.js, Sqlite, MongoDB y Express.js.</h2>
-</td>
-<td>
 <h2>💻 Además, en mis proyectos personales, me entusiasma utilizar Sqlite3 para manejar bases de datos, lo que me permite construir aplicaciones robustas y bien estructuradas.</h2>
 </td>
 </tr>
 <tr>
 <td>
 <h2>🌟 Siempre estoy abierto a colaboraciones y aportar mi experiencia en proyectos emocionantes. ¡No dudes en contactarme si quieres charlar sobre desarrollo de software, intercambiar ideas o si estás buscando colaboración en algún proyecto interesante!</h2>
+</td>
+  <td>
+<h2>🚀En mi tiempo libre, me apasiona trabajar en proyectos personales practicando con tecnologías como React.js, Sqlite, MongoDB y Express.js.</h2>
 </td>
 </tr>
 </table>
