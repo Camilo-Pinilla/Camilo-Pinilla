@@ -1,9 +1,6 @@
 <img src="https://imgur.com/hYs18Wd.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-<section style="width: 1000px; border: 1px solid blue; padding: 10px; display: flex; min-height: 600px;">
-  <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Bienvenido</div>
-  <div style="width: 48%;  border: 1px solid red; min-height: 500px;">Hola</div>
-</section>
+<h1>Bienvenido a mi perfil, Actualmente estoy formándome como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.</h1>
 🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.
 
 🚀En mi tiempo libre, me dedico especialmente al desarrollo Front-end, y me apasiona trabajar con tecnologías como React.js, también disfruto desarrollar con el marco de trabajo Tailwind CSS para un desarrollo más ágil y estilizado.
