@@ -1,26 +1,32 @@
 <img src="https://imgur.com/hYs18Wd.png" title="source: imgur.com" alt="Portada: Camilo Pinilla" />
 
-<h2>Bienvenido a mi perfil, Actualmente estoy formándome 🌱 como analista y desarrollador de software. Me considero un entusiasta de la tecnología y siempre estoy buscando oportunidades para aprender.</h2>
+# 💫 About Me:
+🔭 Actualmente estoy trabajando en un proyecto colaborativo.<br>👯 Estoy en busca de aprendizaje y experiencia.<br>🤝 Me gusta interactuar en comunidades de desarrolladores aportanto ideas y opiniones<br>🌱 Actualmente estoy estudiando análisis y desarrollo de software.<br>💬 Contactame, me gusta ayudar, expresar ideas, charlar sobre tecnologia y sus avances
 
-<table style="width:100%">
-<tr>
-<td style="width:50%">
-<h2>🎓Mi formación académica en análisis y desarrollo de software me ha brindado una base sólida en principios de programación, metodologías ágiles y diseño de software.</h2>
-</td>
-<td style="min-width:50%">
-<h2>💻 En mis proyectos personales, me entusiasma utilizar Sqlite3 para manejar bases de datos y construir aplicaciones bien estructuradas.</h2>
-</td>
-</tr>
-<tr>
-<td>
-<h2>🌟¡No dudes en contactarme si quieres charlar sobre desarrollo de software, intercambiar ideas o si estás buscando colaboración en algún proyecto interesante!</h2>
-</td>
-  <td>
-<h2>🚀En mi tiempo libre, me apasiona trabajar en proyectos personales practicando con tecnologías como React.js, Sqlite, MongoDB y Express.js.</h2>
-</td>
-</tr>
-</table>
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/urwpGVdG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan Camilo Pinilla Jimenez) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Camilo-Pinilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Camilo-Pinilla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-Pinilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Camilo-Pinilla&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Camilo-Pinilla&icon=7&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
